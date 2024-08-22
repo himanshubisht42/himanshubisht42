@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Singh Bisht</h1>
-<h3 align="center">Passionate from Machine Learning and working on enhancing my knowledge on Data Structures.</h3>
+<h3 align="center">Passionate for Machine Learning and working on enhancing my knowledge on Data Structures.</h3>
 
 - 🔭 I’m currently working on **my coding skills.**
 
